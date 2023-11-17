@@ -1,0 +1,28 @@
+{
+    "workbench.iconTheme": "vscode-icons",
+    "workbench.list.smoothScrolling": true,
+    "editor.smoothScrolling": true,
+    "editor.accessibilitySupport": "off",
+    "workbench.editor.wrapTabs": true,
+    "terminal.external.windowsExec": "C:\\Windows\\System32\\cmd.exe",
+    "terminal.integrated.enableBell": true,
+    "terminal.integrated.scrollback": 50000,
+    "terminal.integrated.defaultProfile.windows": "PowerShell",
+    "files.trimTrailingWhitespace": true,
+    "cSpell.useGitignore": false,
+    "separators.maxDepth": 1,
+    "editor.minimap.showSlider": "always",
+    "workbench.tree.indent": 15,
+    "[python]": {
+        "editor.formatOnType": true
+    },
+    "editor.rulers": [
+        100
+    ],
+    "git.confirmSync": false,
+    "workbench.colorTheme": "Visual Studio Dark",
+    "terminal.integrated.enableMultiLinePasteWarning": false,
+    "diffEditor.maxComputationTime": 15000,
+    "makefile.makePath": "C:/Users/aande128/repos/InverterProjectTools/MTSA_MAK/01.ToolFiles/gmake.exe",
+    "editor.inlayHints.enabled": "offUnlessPressed"
+}
