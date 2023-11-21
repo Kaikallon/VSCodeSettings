@@ -23,6 +23,7 @@
     "workbench.colorTheme": "Visual Studio Dark",
     "terminal.integrated.enableMultiLinePasteWarning": false,
     "diffEditor.maxComputationTime": 15000,
-    "makefile.makePath": "C:/Users/aande128/repos/InverterProjectTools/MTSA_MAK/01.ToolFiles/gmake.exe",
-    "editor.inlayHints.enabled": "offUnlessPressed"
+    "makefile.makePath": "%userprofile%/InverterProjectTools/MTSA_MAK/01.ToolFiles/gmake.exe",
+    "editor.inlayHints.enabled": "offUnlessPressed",
+    "git.autofetch": true
 }
